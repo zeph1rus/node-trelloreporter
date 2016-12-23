@@ -1,0 +1,15 @@
+{"lists": [
+		{"id": "56a0c9000b9c9ae3a1479cb1"},
+		{"id": "56a0c8ea665d77b139e75ace"},
+		{"id": "56a0c97d5a02a13db5018aa5"},
+		{"id": "56a0c9b6317f4d61eb1cfe9e"}
+	],
+ "inputfile": "./board.json",
+ "outputfile": "out.html",
+ "htmlhead":  "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#333;background-color:#fff;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#fff;background-color:#f38630;}\n.tg .tg-rtqs{font-size:12px;font-family:\"Lucida Console\", Monaco, monospace !important;;vertical-align:top}\n.tg .tg-yw4l{vertical-align:top}\n</style>" ,
+ "tableheadrowbegin":  "<table class=\"tg\">\n  <tr>\n    <th class=\"tg-rtqs\" colspan=\"2\">" ,
+ "tableheadrowend":  "</th>\n  </tr>",
+ "tablecolbegin":  "<td class=\"tg-yw4l\">" ,
+ "tablecolend" : "</td>" ,
+ "tableend" : "</table>"
+ }
